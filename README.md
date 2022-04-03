@@ -7,6 +7,8 @@ Natural Language processing in tensorflow
 
 ## Same With ASCI CODE
 
+![image](images/3.png)
+
 ![image]()
 ## How To Analyse The Synthaxe
 
