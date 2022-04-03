@@ -7,6 +7,7 @@ Natural Language processing in tensorflow
 
 ## Same With ASCI CODE
 
+With asci analysis the word **LISTEN** and *SILENT** are the same value but the two words are very differents of meaning.
 ![image](images/3.png)
 
 ![image]()
