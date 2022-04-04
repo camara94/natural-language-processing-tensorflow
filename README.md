@@ -55,5 +55,7 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/12.png)
 
+## How To Analysis Sarcasm Dataset
 
+![image](images/13.png)
 
