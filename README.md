@@ -59,3 +59,6 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/13.png)
 
+## Sarcasm Detection
+
+* [https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
