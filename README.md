@@ -63,6 +63,9 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 * [https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection](https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection)
 
+## Build-in Dataset In Tensorflow
+
+![image](images/14.png)
 
 ## Userful Link
 
