@@ -18,8 +18,10 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/5.png)
 
-* Now if we look at the two sentences to determine the difference between two sentences
-  
+* Now if we look at the two sentences to determine the difference between two sentences.
+
+![image](images/6.png)
+
 
 ## How To Analyse The Synthaxe
 
