@@ -30,3 +30,9 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 ## Creating The List Of Sequences
 
 ![image](images/7.png)
+
+## Complete Analysis Corpus
+
+![image](images/8.png)
+
+
