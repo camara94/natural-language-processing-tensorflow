@@ -28,3 +28,5 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 ![image](images/1.png)
 
 ## Creating The List Of Sequences
+
+![image](images/7.png)
