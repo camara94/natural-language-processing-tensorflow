@@ -51,5 +51,9 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 [https://rishabhmisra.github.io/publications/](https://rishabhmisra.github.io/publications/)
 
+## How To Load Sarcasm Dataset
+
+![image](images/12.png)
+
 
 
