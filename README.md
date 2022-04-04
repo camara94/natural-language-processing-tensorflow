@@ -47,5 +47,9 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/11.png)
 
+## Sarcasm in News Headlines Dataset by Rishabh Misra
+
+[https://rishabhmisra.github.io/publications/](https://rishabhmisra.github.io/publications/)
+
 
 
