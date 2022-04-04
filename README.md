@@ -106,6 +106,10 @@ OR
 
 ![image](images/26.png)
 
+## Expect Layer
+
+![image](images/27.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
