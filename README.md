@@ -114,6 +114,10 @@ OR
 
 ![image](images/28.png)
 
+## Vecteor In Embedded Data
+
+![image](images/29.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
