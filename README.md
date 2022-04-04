@@ -43,5 +43,9 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/10.png)
 
+## Personnalize Padding
+
+![image](images/11.png)
+
 
 
