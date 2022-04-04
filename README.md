@@ -88,6 +88,10 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/21.png)
 
+## Tokenizer
+
+![image](images/22.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
