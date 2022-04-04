@@ -104,6 +104,7 @@ OR
 
 ## Training Model
 
+![image](images/26.png)
 
 ## Userful Link
 
