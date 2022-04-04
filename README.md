@@ -110,6 +110,10 @@ OR
 
 ![image](images/27.png)
 
+## Reverse Word Index
+
+![image](images/28.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
