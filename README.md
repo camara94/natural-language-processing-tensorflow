@@ -118,6 +118,12 @@ OR
 
 ![image](images/29.png)
 
+## Download In Colab
+
+![image](images/30.png)
+
+![image](images/30.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
