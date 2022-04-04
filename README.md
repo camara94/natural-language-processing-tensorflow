@@ -14,6 +14,8 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 
 ![image](images/4.png)
 
+How we can observed the similarity between two words
+
 
 ## How To Analyse The Synthaxe
 
