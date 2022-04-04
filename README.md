@@ -26,3 +26,5 @@ With asci analysis the word **LISTEN** and *SILENT** are the same value but the 
 ## How To Analyse The Synthaxe
 
 ![image](images/1.png)
+
+## Creating The List Of Sequences
