@@ -144,6 +144,8 @@ OR
 
 ### Building a classifier for the sarcasm dataset
 
+![image](images/35.png)
+
 
 ## Userful Link
 
