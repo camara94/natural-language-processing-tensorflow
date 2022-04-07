@@ -154,6 +154,9 @@ OR
 
 ![image](images/37.png)
 
+### Summarization Of Model
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
