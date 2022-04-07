@@ -136,6 +136,8 @@ OR
 
 ## Download Sarcasm Dataset
 
+![image](images/33.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
