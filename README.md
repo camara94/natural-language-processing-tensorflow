@@ -168,6 +168,12 @@ OR
 
 ![image](images/41.png)
 
+## TensorFlow datasets
+
+* [https://github.com/tensorflow/datasets/tree/master/docs/catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog)
+
+* [https://www.tensorflow.org/datasets/catalog/overview](https://www.tensorflow.org/datasets/catalog/overview)
+
 ## Subwords text encoder
 
 * [https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder](https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder)
@@ -180,5 +186,5 @@ OR
 
 * [https://github.com/tensorflow/datasets/tree/master/docs/catalog](https://github.com/tensorflow/datasets/tree/master/docs/catalog) 
 
-*[https://www.tensorflow.org/datasets/catalog/overview](https://www.tensorflow.org/datasets/catalog/overview)
+* [https://www.tensorflow.org/datasets/catalog/overview](https://www.tensorflow.org/datasets/catalog/overview)
 
