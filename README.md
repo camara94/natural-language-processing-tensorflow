@@ -162,6 +162,9 @@ OR
 
 ![image](images/39.png)
 
+### Plotting The Result Of Training
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
