@@ -140,7 +140,7 @@ OR
 
 ### Loading Sarcasm Dataset
 
-![image]
+![image](images/34.png)
 
 
 ## Userful Link
