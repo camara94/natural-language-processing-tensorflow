@@ -124,6 +124,9 @@ OR
 
 ![image](images/30.png)
 
+## Model For Sarcasm Dataset
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
