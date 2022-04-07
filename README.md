@@ -183,6 +183,10 @@ OR
 ![image](images/42.png)
 
 ![image](images/43.png)
+
+## Classify Sub Word
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
