@@ -156,6 +156,7 @@ OR
 
 ### Summarization Of Model
 
+![image](images/38.png)
 
 ## Userful Link
 
