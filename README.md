@@ -152,7 +152,7 @@ OR
 
 ### Create A Model
 
-![image]
+![image](images/37.png)
 
 ## Userful Link
 
