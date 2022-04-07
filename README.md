@@ -126,6 +126,9 @@ OR
 
 ## Model For Sarcasm Dataset
 
+### Importation of Tokenizer And Pad_sequence
+
+![image](images/31.png)
 
 ## Userful Link
 
