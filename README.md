@@ -130,6 +130,8 @@ OR
 
 ![image](images/31.png)
 
+### Hyper Parameters
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
