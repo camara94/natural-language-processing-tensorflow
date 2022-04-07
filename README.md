@@ -178,8 +178,9 @@ OR
 
 * [https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder](https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder)
 
-## Diving into the code
+## Diving into the code: Encode And Decode
 
+![image](images/42.png)
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
