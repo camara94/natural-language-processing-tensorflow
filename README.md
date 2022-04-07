@@ -186,6 +186,7 @@ OR
 
 ## Classify Sub Word
 
+![image](images/44.png)
 
 ## Userful Link
 
