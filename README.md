@@ -160,7 +160,7 @@ OR
 
 ### Training The Model
 
-
+![image](images/39.png)
 
 ## Userful Link
 
