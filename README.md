@@ -188,6 +188,8 @@ OR
 
 ![image](images/44.png)
 
+![image](images/45.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
