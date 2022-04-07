@@ -168,6 +168,10 @@ OR
 
 ![image](images/41.png)
 
+## Subwords text encoder
+
+* [https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder](https://www.tensorflow.org/datasets/api_docs/python/tfds/deprecated/text/SubwordTextEncoder)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
