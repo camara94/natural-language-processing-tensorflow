@@ -164,6 +164,7 @@ OR
 
 ### Plotting The Result Of Training
 
+![image](images/40.png)
 
 ## Userful Link
 
