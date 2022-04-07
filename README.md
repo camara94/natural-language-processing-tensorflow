@@ -134,9 +134,14 @@ OR
 
 ![image](images/32.png)
 
-## Download Sarcasm Dataset
+### Download Sarcasm Dataset
 
 ![image](images/33.png)
+
+### Loading Sarcasm Dataset
+
+![image]
+
 
 ## Userful Link
 
