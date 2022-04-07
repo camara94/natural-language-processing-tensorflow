@@ -149,6 +149,11 @@ OR
 ### Sequence Dataset
 
 ![image](images/36.png)
+
+### Create A Model
+
+![image]
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
