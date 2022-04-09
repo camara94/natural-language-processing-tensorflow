@@ -201,6 +201,8 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/48.png)
 
+![image](images/49.png)
+
 
 
 
