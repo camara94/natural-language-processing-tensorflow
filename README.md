@@ -203,6 +203,10 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/49.png)
 
+## Visualize A Sequence
+
+![image](images/50.png)
+
 
 
 
