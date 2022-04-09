@@ -193,6 +193,14 @@ OR
 ![image](images/46.png)
 
 
+## RNN
+
+The neural Network is kind a function that we can a data and label it give a rules
+
+![image](images/47.png)
+
+
+
 
 ## Userful Link
 
