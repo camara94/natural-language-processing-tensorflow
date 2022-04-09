@@ -203,6 +203,10 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/49.png)
 
+## How RNN Work
+
+![image](images/52.png)
+
 ## Visualize A Sequence
 
 ![image](images/50.png)
@@ -226,11 +230,11 @@ The neural Network is kind a function that we can a data and label it give a rul
 ![image](images/55.png)
 
 
+## More About SLTMs
+
+![https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
 
 
-## How RNN Work
-
-![image](images/52.png)
 
 
 ## Userful Link
