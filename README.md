@@ -229,6 +229,10 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/55.png)
 
+## How To Implement LSTM in Tensorflow
+
+![image](images/56.png)
+
 
 ## More About LSTMs
 
