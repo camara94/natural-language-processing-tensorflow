@@ -230,9 +230,9 @@ The neural Network is kind a function that we can a data and label it give a rul
 ![image](images/55.png)
 
 
-## More About SLTMs
+## More About LSTMs
 
-![https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
+* [https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
 
 
 
