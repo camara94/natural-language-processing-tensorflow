@@ -212,6 +212,11 @@ The neural Network is kind a function that we can a data and label it give a rul
 ## How To Understang The Context Of Word
 
 ![image](images/53.png)
+
+## Uni Directional Cell State
+
+![image](images/54.png)
+
 ## More About RNN
 
 * [https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S](https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S)
