@@ -302,8 +302,10 @@ The neural Network is kind a function that we can a data and label it give a rul
 ![image](images/76.png)
 
 ![image](images/77.png)
-  
 
+* Passed To Model For Prediction
+  
+![image](images/78.png)
 
 ## Userful Link
 
