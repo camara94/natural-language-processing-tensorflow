@@ -263,6 +263,8 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/65.png)
 
+## More on the training data
+
 ![image](images/66.png)
 
 ## Userful Link
