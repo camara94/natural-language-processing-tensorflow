@@ -243,7 +243,9 @@ The neural Network is kind a function that we can a data and label it give a rul
 * [https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay](https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay)
 
 
+## Generation A New Text Process
 
+![image](images/58.png)
 
 ## Userful Link
 
