@@ -300,6 +300,8 @@ The neural Network is kind a function that we can a data and label it give a rul
 * Padded A Sequence
 
 ![image](images/76.png)
+
+![image](7)
   
 
 
