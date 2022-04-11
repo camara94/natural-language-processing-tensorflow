@@ -307,6 +307,10 @@ The neural Network is kind a function that we can a data and label it give a rul
   
 ![image](images/78.png)
 
+* Reverse Look out
+
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
