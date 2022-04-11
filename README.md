@@ -289,6 +289,7 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ### Predicting a word
 
+![image](images/73.png)
 
 ## Userful Link
 
