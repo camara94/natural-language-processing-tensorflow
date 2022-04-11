@@ -339,3 +339,5 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 * [https://www.tensorflow.org/datasets/catalog/overview](https://www.tensorflow.org/datasets/catalog/overview)
 
+* [https://www.tensorflow.org/text/tutorials/text_generation](https://www.tensorflow.org/text/tutorials/text_generation)
+
