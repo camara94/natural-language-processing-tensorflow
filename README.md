@@ -274,6 +274,11 @@ The neural Network is kind a function that we can a data and label it give a rul
 ### Finding what the next word should be
 
 ![image](images/69.png)
+
+### Example of Text Generated
+
+![image](images/70.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
