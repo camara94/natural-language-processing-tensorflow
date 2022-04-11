@@ -281,6 +281,9 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ### Use Bidirectional LSTM
 
+![image](images/71.png)
+
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
