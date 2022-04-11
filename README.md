@@ -309,6 +309,7 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 * Reverse Look out
 
+![image](images/79.png)
 
 
 ## Userful Link
