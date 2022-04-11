@@ -283,6 +283,10 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/71.png)
 
+### Example After Training With Bidirectional LSTM
+
+![image](images/72.png)
+
 
 ## Userful Link
 
