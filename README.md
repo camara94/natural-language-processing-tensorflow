@@ -261,6 +261,8 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/64.png)
 
+![image](images/65.png)
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
