@@ -291,6 +291,9 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ![image](images/73.png)
 
+* Tokenize the word to predicting
+  
+
 ## Userful Link
 
 * [https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer)
