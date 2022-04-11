@@ -321,6 +321,7 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 ### Download A Corpus
 
+![image](images/82.png)
 
 ## Userful Link
 
