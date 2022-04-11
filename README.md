@@ -298,8 +298,10 @@ The neural Network is kind a function that we can a data and label it give a rul
  ![image](images/75.png)
 
 * Padded A Sequence
+
+![image](images/76.png)
   
-  
+
 
 ## Userful Link
 
