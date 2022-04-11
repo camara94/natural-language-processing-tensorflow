@@ -317,6 +317,7 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 * Result
 
+![iamge](images/81.png)
 
 
 ## Userful Link
