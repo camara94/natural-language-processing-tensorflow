@@ -293,6 +293,7 @@ The neural Network is kind a function that we can a data and label it give a rul
 
 * Tokenize the word to predicting
   
+ ![image](images/74.png)
 
 ## Userful Link
 
